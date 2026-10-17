@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F2A3D"/></linearGradient>
+<linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1E3A4C" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="250" rx="16" fill="url(#bg)"/><rect width="1200" height="250" rx="16" fill="url(#grid)" opacity=".4"/>
+<rect width="1200" height="5" rx="2" fill="url(#acc)"/>
+<text x="70" y="68" fill="#2DD4BF" font-size="13" font-weight="700" letter-spacing="4">ANÁLISIS EDUCATIVO · REPÚBLICA DOMINICANA</text>
+<text x="68" y="118" fill="#F8FAFC" font-size="36" font-weight="800">Planteles Educativos de República Dominicana</text>
+<text x="70" y="156" fill="#94A3B8" font-size="18">Más de 7,000 planteles y su matrícula 2021, en tablas y en mapa interactivo</text>
+<rect x="70" y="196" width="70" height="26" rx="13" fill="#0E3B43" stroke="#1E5A63"/><text x="83" y="214" fill="#5EEAD4" font-size="12.5" font-weight="700" font-family="Consolas, Menlo, monospace">pandas</text><rect x="150" y="196" width="92" height="26" rx="13" fill="#0E3B43" stroke="#1E5A63"/><text x="163" y="214" fill="#5EEAD4" font-size="12.5" font-weight="700" font-family="Consolas, Menlo, monospace">geopandas</text><rect x="252" y="196" width="70" height="26" rx="13" fill="#0E3B43" stroke="#1E5A63"/><text x="265" y="214" fill="#5EEAD4" font-size="12.5" font-weight="700" font-family="Consolas, Menlo, monospace">folium</text><rect x="332" y="196" width="85" height="26" rx="13" fill="#0E3B43" stroke="#1E5A63"/><text x="345" y="214" fill="#5EEAD4" font-size="12.5" font-weight="700" font-family="Consolas, Menlo, monospace">sweetviz</text>
+<g transform="translate(1040,125)"><circle r="78" fill="#0E3B43" opacity=".55"/><path d="M0 -46c-20 0-34 14-34 33 0 24 34 52 34 52s34-28 34-52c0-19-14-33-34-33z" fill="none" stroke="#2DD4BF" stroke-width="5"/><circle cy="-13" r="12" fill="#38BDF8"/></g>
+</svg>
